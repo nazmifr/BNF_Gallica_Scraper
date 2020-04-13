@@ -2,7 +2,7 @@
 
 Say you have an old ereader that don't support PDF scans and you still want to read old books from the awesome https://gallica.bnf.fr archive. Well you just use this script.
 
-Plz no abuse! The french gov has been nice enough to set this thing up, let's be thankful and not di\*ks
+Plz no abuse! The french gov't has been nice enough to set this thing up, let's be thankful and not di\*ks
 
 🇫🇷🇫🇷🇫🇷 French version of the Doc: https://nazmi.fr/gallica_bnf_scraper/
 
